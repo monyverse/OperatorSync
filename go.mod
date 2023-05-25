@@ -5,7 +5,7 @@ go 1.19
 require (
 	github.com/Crossbell-Box/contracts.go v0.0.0-20230410043303-3f6ac5d3fae2
 	github.com/JohannesKaufmann/html-to-markdown v1.3.7
-	github.com/ethereum/go-ethereum v1.11.5
+	github.com/ethereum/go-ethereum v1.12.0
 	github.com/gin-gonic/gin v1.9.0
 	github.com/lib/pq v1.10.8
 	github.com/mmcdole/gofeed v1.2.1
